@@ -11,14 +11,14 @@
             "id": "ee123f2efba90cc4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "未命名.md",
-                "bFile": "未命名.md",
-                "aRef": ""
+                "file": "未.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 未命名  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "未"
             }
           }
         ]
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "722045402ae9c583",
+  "active": "3757a03785f91da4",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "未.md",
