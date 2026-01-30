@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "未"
             }
+          },
+          {
+            "id": "e23405a4d135515c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bc780c40d0f5bf3",
+  "active": "e23405a4d135515c",
   "lastOpenFiles": [
-    "啊啊.md",
+    "未 (1).md",
+    "未-2.md",
+    "啊-2.md",
+    "啊.md",
     "未.md",
+    "未命名.md",
+    "啊啊.md",
     "/未.md"
   ]
 }
