@@ -156,27 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "未.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
-            }
-          },
-          {
-            "id": "722045402ae9c583",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "未 的大纲"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -196,6 +186,9 @@
   },
   "active": "3757a03785f91da4",
   "lastOpenFiles": [
+    "未命名.md",
+    "未 (1).md",
+    "啊啊.md",
     "conflict-files-obsidian-git.md",
     "未.md",
     "啊.md",
