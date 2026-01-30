@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "啊.md",
+                "file": "未.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "啊"
+              "title": "未"
             }
           }
         ]
@@ -168,6 +168,8 @@
   },
   "active": "4bc780c40d0f5bf3",
   "lastOpenFiles": [
-    "啊.md"
+    "啊啊.md",
+    "未.md",
+    "/未.md"
   ]
 }
