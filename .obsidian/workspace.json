@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二重极限的计算.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二重极限的计算"
+              "title": "未命名"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "二重极限的计算.md",
+                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "二重极限的计算 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "6f9857ecc25d20eb",
   "lastOpenFiles": [
-    "未命名.md",
     "二重极限的计算.md",
+    "未命名.md",
     "列表.md",
     "字典.md",
     "Python基础语法(1).md",
