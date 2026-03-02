@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "二重极限的计算"
             }
+          },
+          {
+            "id": "ad724d5f5e6c83f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "微分方程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "微分方程"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,20 +200,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e46bc3684b95dffe",
+  "active": "ad724d5f5e6c83f7",
   "lastOpenFiles": [
+    "二重极限的计算.md",
+    "微分方程.md",
     "Python基础语法(1).md",
     "QQ20260302-130432.png",
     "for.md",
     "字典.md",
     "注释.md",
     "偏导数.md",
-    "未命名.md",
     "QQ20260301-214435 1.png",
     "QQ20260301-214435.png",
     "d73c943d1a6cd8c6d2dc34b37d444fc0.png",
     "未命名.canvas",
-    "二重极限的计算.md",
     "列表.md",
     "Python.md",
     "Python基础语法.md",
