@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "二重极限的计算.md",
+                "file": "高数/二重极限的计算.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "偏导数.md",
+                "file": "高数/偏导数.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,13 +200,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad724d5f5e6c83f7",
+  "active": "3757a03785f91da4",
   "lastOpenFiles": [
-    "微分方程.md",
-    "偏导数.md",
-    "二重极限的计算.md",
+    "未命名",
+    "高数",
+    "高数/微分方程.md",
+    "高数/偏导数.md",
+    "高数/二重极限的计算.md",
     "Python基础语法(1).md",
-    "QQ20260302-130432.png",
+    "高数/QQ20260302-130432.png",
     "for.md",
     "字典.md",
     "注释.md",
