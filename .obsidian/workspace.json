@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/多元函数求全微分.md",
-                "mode": "source",
+                "file": "高数/多元函数求极值.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多元函数求全微分"
+              "title": "多元函数求极值"
             }
           },
           {
@@ -45,8 +45,7 @@
               "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,14 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53b59457fe5eff98",
+  "active": "ad724d5f5e6c83f7",
   "lastOpenFiles": [
+    "高数/多元函数求全微分.md",
+    "高数/多元隐函数求偏导数.md",
     "高数/QQ20260302-130432.png",
     "高数/微分方程.md",
     "高数/偏导数.md",
     "高数/二重极限的计算.md",
-    "高数/多元隐函数求偏导数.md",
-    "高数/多元函数求全微分.md",
     "高数/多元函数求极值.md",
     "高数/对抽象函数g,h求y的偏导.md",
     "测试.md",
