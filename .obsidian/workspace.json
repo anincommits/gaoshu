@@ -41,8 +41,7 @@
               "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,11 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "719ad1adb79fd461",
+  "active": "ad724d5f5e6c83f7",
   "lastOpenFiles": [
+    "高数/多元函数有约束条件求极值.md",
     "高数/偏导数.md",
     "高数/多元隐函数求偏导数.md",
-    "高数/多元函数有约束条件求极值.md",
     "高数/多元函数求全微分.md",
     "高数/对抽象函数g,h求y的偏导.md",
     "高数/多元函数求极值.md",
