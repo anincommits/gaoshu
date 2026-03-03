@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "多元函数求极值.md",
+                "file": "高数/多元函数求极值.md",
                 "mode": "source",
                 "source": false
               },
@@ -214,17 +214,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53b59457fe5eff98",
+  "active": "3757a03785f91da4",
   "lastOpenFiles": [
     "高数/多元隐函数求偏导数.md",
-    "多元函数求极值.md",
     "高数/多元函数求全微分.md",
     "高数/二重极限的计算.md",
-    "高数/对抽象函数g,h求y的偏导.md",
     "高数/偏导数.md",
+    "高数/微分方程.md",
+    "高数/多元函数求极值.md",
+    "高数/对抽象函数g,h求y的偏导.md",
     "测试.md",
     "大物/未命名.md",
-    "高数/微分方程.md",
     "大物",
     "Python/字典.md",
     "Python/注释.md",
