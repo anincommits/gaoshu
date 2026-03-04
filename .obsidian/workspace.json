@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/非圆周区域上二重积分的计算.md",
-                "mode": "preview",
+                "file": "高数/未命名.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "非圆周区域上二重积分的计算"
+              "title": "未命名"
             }
           },
           {
@@ -211,9 +211,10 @@
   },
   "active": "ad724d5f5e6c83f7",
   "lastOpenFiles": [
+    "高数/非圆周区域上二重积分的计算.md",
+    "高数/未命名.md",
     "高数/Screenshot_20260304_111247.jpg",
     "高数/微分方程.md",
-    "高数/非圆周区域上二重积分的计算.md",
     "高数/偏导数.md",
     "高数/二重极限的计算.md",
     "高数/多元隐函数求偏导数.md",
