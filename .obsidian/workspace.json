@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "多元函数求极值.md",
-                "mode": "source",
+                "file": "多元函数有约束条件求极值.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多元函数求极值"
+              "title": "多元函数有约束条件求极值"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +197,9 @@
   },
   "active": "455de0ba6c319aff",
   "lastOpenFiles": [
-    "大物/质点运动学.md",
     "多元函数求极值.md",
+    "多元函数有约束条件求极值.md",
+    "大物/质点运动学.md",
     "非圆周区域上二重积分的计算 (1).md",
     "Screenshot_20260304_111247.jpg",
     "多元隐函数求偏导数.md",
