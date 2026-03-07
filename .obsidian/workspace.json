@@ -4,77 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7996c7d871b899b8",
+        "id": "91b5dd677195523f",
         "type": "tabs",
         "children": [
           {
-            "id": "d2fd7b0d0d9b2ad4",
+            "id": "455de0ba6c319aff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "非圆周区域上二重积分的计算 (1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "cca719ce893adfaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "6d27fe076e81ccbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "0c68ba0f5deded90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "质点运动学.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "质点运动学"
-            }
-          },
-          {
-            "id": "de4e1e446efbb1ac",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "非圆周区域上二重积分的计算 (1)"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,12 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3757a03785f91da4",
+  "active": "455de0ba6c319aff",
   "lastOpenFiles": [
+    "Screenshot_20260304_111247.jpg",
+    "非圆周区域上二重积分的计算 (1).md",
+    "多元隐函数求偏导数.md",
+    "高数/QQ20260302-130432.png",
+    "圆周区域上二重积分的计算.md",
+    "多元函数求极值.md",
+    "多元函数求全微分.md",
+    "Python/多元隐函数求偏导数.md",
+    "高数/微分方程.md",
+    "高数/二重极限的计算.md",
+    "大物/质点运动学 1.md",
     "测试.md",
     "conflict-files-obsidian-git.md",
     "大物/质点运动学.md",
-    "大物/质点运动学 1.md",
     "大物/牛顿运动定律.md",
     "QQ20260306-160343.png",
     "QQ20260306-160108.png",
@@ -261,24 +218,15 @@
     "高数/圆周区域上二重积分的计算.md",
     "高数/分段函数的二重积分.md",
     "高数/非圆周区域上二重积分的计算.md",
-    "高数/微分方程.md",
     "高数/多元隐函数求偏导数.md",
-    "高数/二重极限的计算.md",
     "高数/多元函数有约束条件求极值.md",
     "高数/多元函数求全微分.md",
     "高数/多元函数求极值.md",
     "高数/未命名 1.md",
     "高数/Screenshot_20260304_111247.jpg",
     "高数/对抽象函数g,h求y的偏导.md",
-    "高数/QQ20260302-130432.png",
     "大物",
     "Python/字典.md",
-    "Python/注释.md",
-    "Python/逻辑运算.md",
-    "Python/列表.md",
-    "Python/Python基础语法(1).md",
-    "Python/Python.md",
-    "Python/for.md",
     "Python",
     "高数",
     "QQ20260301-214435 1.png",
