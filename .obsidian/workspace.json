@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "非圆周区域上二重积分的计算 (1).md",
+                "file": "多元函数求极值.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "非圆周区域上二重积分的计算 (1)"
+              "title": "多元函数求极值"
             }
           }
         ]
@@ -196,12 +196,13 @@
   },
   "active": "455de0ba6c319aff",
   "lastOpenFiles": [
-    "Screenshot_20260304_111247.jpg",
+    "大物/质点运动学.md",
+    "多元函数求极值.md",
     "非圆周区域上二重积分的计算 (1).md",
+    "Screenshot_20260304_111247.jpg",
     "多元隐函数求偏导数.md",
     "高数/QQ20260302-130432.png",
     "圆周区域上二重积分的计算.md",
-    "多元函数求极值.md",
     "多元函数求全微分.md",
     "Python/多元隐函数求偏导数.md",
     "高数/微分方程.md",
@@ -209,7 +210,6 @@
     "大物/质点运动学 1.md",
     "测试.md",
     "conflict-files-obsidian-git.md",
-    "大物/质点运动学.md",
     "大物/牛顿运动定律.md",
     "QQ20260306-160343.png",
     "QQ20260306-160108.png",
