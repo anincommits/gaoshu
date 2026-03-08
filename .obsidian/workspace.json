@@ -156,31 +156,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "高数/曲线的切线和法平面.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
-            }
-          },
-          {
-            "id": "1ca65cc33ddb3f1f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "曲线的切线和法平面 的大纲"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,18 +187,19 @@
   },
   "active": "455de0ba6c319aff",
   "lastOpenFiles": [
+    "高数/曲面的切平面和法线.md",
+    "高数/多元函数有约束条件求极值.md",
+    "高数/偏导数.md",
+    "高数/多元函数求极值.md",
+    "高数/曲线的切线和法平面.md",
+    "高数下考纲.md",
     "高数/圆周区域上二重积分的计算.md",
     "高数/微分方程.md",
-    "高数/曲线的切线和法平面.md",
-    "高数/偏导数.md",
     "高数/非圆周区域上二重积分的计算 (1).md",
     "高数/二重极限的计算.md",
     "高数/多元隐函数求偏导数.md",
-    "高数/多元函数有约束条件求极值.md",
     "高数/多元函数求全微分.md",
-    "高数/多元函数求极值.md",
     "高数/对抽象函数g,h求y的偏导.md",
-    "高数下考纲.md",
     "2025-2026第一学期挂科统计.md",
     "大物/Screenshot_20260308_111127_tv_danmaku_bili_United.jpg",
     "大物/质点运动学.md",
@@ -225,7 +217,6 @@
     "Python/多元隐函数求偏导数.md",
     "大物/质点运动学 1.md",
     "测试.md",
-    "conflict-files-obsidian-git.md",
     "QQ20260306-160343.png",
     "QQ20260306-160108.png",
     "大物",
