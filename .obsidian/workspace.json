@@ -164,14 +164,23 @@
               "icon": "lucide-list",
               "title": "动量与角动量 的大纲"
             }
+          },
+          {
+            "id": "252e9207eb23c665",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
